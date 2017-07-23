@@ -114,6 +114,8 @@ nav li {
 	padding: 11px 5px !important;
 	font-size: 0.8em;
 }
+
+/*registro parte 2*/
 #reg2 {
 	flex-direction: column;
 	height: calc(100vh - 55px);

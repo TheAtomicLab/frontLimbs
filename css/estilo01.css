@@ -752,7 +752,7 @@ nav li:hover a:before {
 .selec:hover h2 {
 	font-size: 25px;
 }
-h2 {
+.selec h2 {
 	text-align: center;
 	position: relative;
 	width: 80%;
